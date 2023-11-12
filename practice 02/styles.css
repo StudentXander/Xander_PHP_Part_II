@@ -1,9 +1,20 @@
 /* Style the body and center the form */
 body {
-    font-family: Arial, sans-serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color: #f4f4f4;
     text-align: center;
     padding: 20px;
+    background-image: url('back.jpg'); /* Replace 'path/to/your/image.jpg' with the actual path to your image file */
+    background-repeat: no-repeat;
+    background-size: cover; /* Adjust as needed */
+    background-position: center center; /* Adjust as needed */
+    margin: 0; /* This removes default body margin */
+    padding: 0; /* This removes default body padding */
+}
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: whitesmoke;
+    text-shadow: 2px 2px 4px black;
 }
 
 /* Style the form container */
