@@ -1,1 +1,1 @@
-For Practice set 02 please go to C:\xampp\htdocs\Xander_PHP_Part_II\word-frequency-counter_xander
+For Practice set 02 please go to practice 02 folder
